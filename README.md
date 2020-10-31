@@ -1,1 +1,1 @@
-# Whack-Game
+# WhackMoleGame
